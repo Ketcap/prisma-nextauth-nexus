@@ -1,0 +1,1 @@
+export const isUserPaid = (isPaid) => isPaid  ? 'User is Paid' : 'User is Free' ;
